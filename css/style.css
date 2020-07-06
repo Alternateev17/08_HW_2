@@ -73,10 +73,11 @@
   color: #1d1d1d;
   text-align: left;
   padding: 9px 20px 9px;
+  margin-bottom: 70px;
 }
 
 .icon {
- 
+  padding: 0px 20px 20px;
 }
 
 .img-position {
@@ -98,4 +99,3 @@
 .img:hover {
   filter: contrast(175%);
 }
-
