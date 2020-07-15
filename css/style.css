@@ -29,7 +29,7 @@ body {
 .title-cont {
   display: flex;
   flex-direction: column;
-  padding: 0px 0px 30px 30px;
+  padding: 0px 0px 18px 30px;
 }
 
 .date-1 {
@@ -51,7 +51,7 @@ body {
 }
 
 .row-pad {
-  padding-top: 20px;
+  padding-top: 19px;
 }
 
 .img-1 {
